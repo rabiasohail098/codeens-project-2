@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 80%;
+    text-align: center;
+}
+.ch-1{
+    text-align: center;
+}
+ol{
+    text-align: left;
+    margin: 20px 0px;
+    margin-left: 20%;
+}
+ul{
+    margin-left: 05%;
+}
+h1{
+    text-align: left;
+    margin-left: 15%;
+    margin-top: 40px;
+}
+
+h2{
+    text-align: left;
+    margin-left: 15%;
+    margin-top: 30px;
+}
+p{
+    text-align: left;
+    margin-left: 15%;
+    margin-top: 20px;
+}
+.ch-2{
+    text-align: center;
+}
+strong{
+    margin-left: 10px;
+}
+.tag{
+    text-align: center;
+    font-size: 20px;
+
+}
+img{
+    max-width: 500px;
+    border: 2px solid black;
+    margin-left: 20%;
+    margin-top: 30px;
+    
+}
+
+.tag{
+    text-align: center;
+    margin-right: 20%;
+}
+.para{
+    text-align: center;
+}
